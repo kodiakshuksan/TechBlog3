@@ -24,5 +24,13 @@
     "eslint-config-prettier": "^6.15.0",
     "prettier": "^2.1.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodiakshuksan/TechBlog3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kodiakshuksan/TechBlog3/issues"
+  },
+  "homepage": "https://github.com/kodiakshuksan/TechBlog3#readme",
   "description": ""
 }
