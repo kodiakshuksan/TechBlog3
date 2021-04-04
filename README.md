@@ -21,25 +21,25 @@
 
 ## Installation-
 
-[Video Demonstration of Application]()
+https://evening-atoll-21821.herokuapp.com/
 
 ## Usage-
 
-![Homepage](assets/pic1)
-![Login and Sign Up page](assets/pic2.PNG)
+![Homepage](public/assets/pic1.png)
+![Login and Sign Up page](public/assets/pic2.png)
 
 ## Technologies Used-
 
-npm,CSS,JavaScript,JQuery,node.js
+npm, CSS, JavaScript, JQuery, node.js
 
 ## Credits-
 
 [W3 Schools](https://www.w3schools.com)
-[]()
+
 
 ## License-
 
-###[![License: MIT]](https://opensource.org/licenses/MIT)
+### License: MIT https://opensource.org/licenses/MIT
 
 ## Features-
 
